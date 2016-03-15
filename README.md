@@ -1,4 +1,3 @@
-##我提交的第一个git测试
 ##Sharding-JDBC - A JDBC driver for shard databases and tables
 
 `Sharding-JDBC`是当当应用框架`ddframe`中，关系型数据库模块`dd-rdb`中分离出来的数据库水平扩展框架，即透明化数据库分库分表访问。
